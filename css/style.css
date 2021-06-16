@@ -1,0 +1,11 @@
+body {
+    background-color: #f9f7f7;
+    color: #dbe2ef;
+    font-family: 'Baloo Tammudu 2', cursive;
+    text-align: center;
+}
+
+li {
+    font-size: 30px;
+    padding-top: 30px;
+}
